@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aggoodwin1988
 - 👀 I’m interested in programming for game development
 - 🌱 I’m currently learning CPP using Unreal Engine 5
-- 💞️ I’m looking to collaborate on simple coding exercises
+- 💞️ I’m looking to practice on simple coding exercises
 - 📫 How to reach me: aggoodwin1988@gmail.com, or message thru github
 
 <!---
