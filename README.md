@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aggoodwin1988
+- 👋 Hi, I’m Aaron Goodwin
 - 👀 I’m interested in programming for game development
 - 🌱 I’m currently learning CPP using Unreal Engine 5
 - 💞️ I’m looking to practice on simple coding exercises
